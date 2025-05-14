@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   pinenacl: ^0.5.1
-  solana: ^0.26.0
+  solana: ^0.31.2+1
 
 dev_dependencies:
   flutter_test:
